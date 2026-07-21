@@ -215,14 +215,7 @@ Add screenshots of:
 ---
 
 # 🌐 Live Demo
-
-Frontend:
-> Coming Soon
-
-Backend:
-> Coming Soon
-
----
+https://minahilnazeer.github.io/SmartClinic/
 
 # 🚀 Future Improvements
 

@@ -206,11 +206,22 @@ http://localhost:5173
 Add screenshots of:
 
 - Login Page
+  <img width="1366" height="699" alt="image" src="https://github.com/user-attachments/assets/cd2d0ff8-18c8-4d4d-9a25-502573ffe1b6" />
+
 - Dashboard
+  <img width="1366" height="655" alt="image" src="https://github.com/user-attachments/assets/e08cfa80-d3e8-4992-bdb0-08242fe55aa4" />
+
 - Patient Management
+  <img width="1361" height="641" alt="image" src="https://github.com/user-attachments/assets/aaa84fa6-ff4a-4ac3-8750-14241f8563fe" />
+
 - Doctor Management
+  <img width="1366" height="609" alt="image" src="https://github.com/user-attachments/assets/7380209e-dc8d-4aa9-a571-ea9a0e20098f" />
+
 - Appointment Management
+  <img width="1366" height="647" alt="image" src="https://github.com/user-attachments/assets/7091e13b-992e-4cb5-a2a5-4e8bebc87496" />
+
 - Billing Page
+<img width="1361" height="676" alt="image" src="https://github.com/user-attachments/assets/2641ceae-eb26-42cf-8772-8c64106f4be0" />
 
 ---
 
